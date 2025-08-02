@@ -172,7 +172,7 @@ Here are some possible improvements and add-ons to extend the functionality:
 
 Special thanks to everyone who contributed to this project:
 
-- **Ahmed Walid**  
+- **Ahmed Waleed**  
   [LinkedIn](https://www.linkedin.com/in/ahmedwaleed3604/) | [GitHub](https://github.com/AhmedWaleed36)
 
 - **Ahmed Khaled**  
