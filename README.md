@@ -1,5 +1,11 @@
 
 # 🔌 UART Transceiver in Verilog
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Verilog-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Status">
+</div>
+
+## 📝 Overview
 
 This repository contains a **configurable and full-duplex UART (Universal Asynchronous Receiver-Transmitter)** implemented in Verilog. The design supports various baud rates, data lengths, parity modes, and stop bit formats — making it flexible for diverse communication needs.
 
@@ -160,6 +166,17 @@ Here are some possible improvements and add-ons to extend the functionality:
 - 🕵️ **Line Idle Timeout / Framing Watchdog:** Detect line silence or corruption  
 - 📊 **Improved Testbench Suite:** Add self-checking and randomized tests using SystemVerilog or UVM  
 - 🧩 **Integration with Soft CPU Core:** Such as PicoRV32 or RISC-V for embedded application testing  
+
+---
+## 🌟 Contributors
+
+Special thanks to everyone who contributed to this project:
+
+- **Ahmed Walid**  
+  [LinkedIn](https://www.linkedin.com/in/ahmedwaleed3604/) | [GitHub](https://github.com/AhmedWaleed36)
+
+- **Ahmed Khaled**  
+  [LinkedIn](https://www.linkedin.com/in/ahmedkhaled-l/) | [GitHub](https://github.com/Ahmed-Khaled-L)
 
 ---
 
